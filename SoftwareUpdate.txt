@@ -1,1 +1,1 @@
-Bounding Box to OBB conversion (#7572)
+Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
