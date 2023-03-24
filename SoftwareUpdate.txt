@@ -1,1 +1,1 @@
-Update pyproject.toml and Docs (#7274)
+Fix TypeError in check_cfg() (#9245)
