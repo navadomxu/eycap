@@ -1,1 +1,1 @@
-ultralytics 8.1.5 add OBB Tracking support (#7731)
+Feature: Create HUB Models from CLI or Python Script (#7316)
