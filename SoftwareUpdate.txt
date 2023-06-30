@@ -1,1 +1,1 @@
-Update CITATION.cff with cffinit corrections (#8658)
+Expand Model method type hinting (#8279)
