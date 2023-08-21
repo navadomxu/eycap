@@ -1,1 +1,1 @@
-Update CI.md with CI links (#8786)
+Update OpenVINO INT8 export (#7515)
