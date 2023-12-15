@@ -1,1 +1,1 @@
-Fix TFLite INT8 for OBB (#7989)
+Add docs guide terminal images (#8819)
