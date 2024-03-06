@@ -1,1 +1,1 @@
-Elaborate Train and Predict mode docs arguments (#8137)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
